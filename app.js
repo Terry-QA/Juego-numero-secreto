@@ -56,7 +56,7 @@ function definirPlaceholderElemento(selector, texto){
 }
 
 function condicionesIniciales(){
-    numeroMaximo = 10;
+    numeroMaximo = 100;
     intentos=0;
 
     nSecreto = numeroSecreto();
